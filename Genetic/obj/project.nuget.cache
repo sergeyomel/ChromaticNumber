@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iqhcQM+LLLnYtANLkLawXVTdndR6TQISzwD333xP/ti9j99gPOEKUdZD+u3Akq6fXqH4nMybuLX3PvV/gd5kCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\myacc\\Desktop\\диплом\\ChromaGraph\\Genetic\\Genetic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\myacc\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

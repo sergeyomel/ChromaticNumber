@@ -1,0 +1,26 @@
+C:\Users\myacc\OneDrive\Рабочий стол\ChromaGraph\Genetic\bin\Debug\netcoreapp3.1\Genetic.deps.json
+C:\Users\myacc\OneDrive\Рабочий стол\ChromaGraph\Genetic\bin\Debug\netcoreapp3.1\Genetic.dll
+C:\Users\myacc\OneDrive\Рабочий стол\ChromaGraph\Genetic\bin\Debug\netcoreapp3.1\Genetic.pdb
+C:\Users\myacc\OneDrive\Рабочий стол\ChromaGraph\Genetic\bin\Debug\netcoreapp3.1\GraphLib.dll
+C:\Users\myacc\OneDrive\Рабочий стол\ChromaGraph\Genetic\bin\Debug\netcoreapp3.1\GraphLib.pdb
+C:\Users\myacc\OneDrive\Рабочий стол\ChromaGraph\Genetic\obj\Debug\netcoreapp3.1\Genetic.AssemblyInfoInputs.cache
+C:\Users\myacc\OneDrive\Рабочий стол\ChromaGraph\Genetic\obj\Debug\netcoreapp3.1\Genetic.AssemblyInfo.cs
+C:\Users\myacc\OneDrive\Рабочий стол\ChromaGraph\Genetic\obj\Debug\netcoreapp3.1\Genetic.csproj.CoreCompileInputs.cache
+C:\Users\myacc\OneDrive\Рабочий стол\ChromaGraph\Genetic\obj\Debug\netcoreapp3.1\Genetic.csproj.CopyComplete
+C:\Users\myacc\OneDrive\Рабочий стол\ChromaGraph\Genetic\obj\Debug\netcoreapp3.1\Genetic.dll
+C:\Users\myacc\OneDrive\Рабочий стол\ChromaGraph\Genetic\obj\Debug\netcoreapp3.1\Genetic.pdb
+C:\Users\myacc\OneDrive\Рабочий стол\ChromaGraph\Genetic\obj\Debug\netcoreapp3.1\Genetic.csproj.AssemblyReference.cache
+C:\Users\myacc\OneDrive\Рабочий стол\ChromaGraph\Genetic\obj\Debug\netcoreapp3.1\Genetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\myacc\Desktop\ChromaGraph\Genetic\bin\Debug\netcoreapp3.1\Genetic.deps.json
+C:\Users\myacc\Desktop\ChromaGraph\Genetic\bin\Debug\netcoreapp3.1\Genetic.dll
+C:\Users\myacc\Desktop\ChromaGraph\Genetic\bin\Debug\netcoreapp3.1\Genetic.pdb
+C:\Users\myacc\Desktop\ChromaGraph\Genetic\bin\Debug\netcoreapp3.1\GraphLib.dll
+C:\Users\myacc\Desktop\ChromaGraph\Genetic\bin\Debug\netcoreapp3.1\GraphLib.pdb
+C:\Users\myacc\Desktop\ChromaGraph\Genetic\obj\Debug\netcoreapp3.1\Genetic.csproj.AssemblyReference.cache
+C:\Users\myacc\Desktop\ChromaGraph\Genetic\obj\Debug\netcoreapp3.1\Genetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\myacc\Desktop\ChromaGraph\Genetic\obj\Debug\netcoreapp3.1\Genetic.AssemblyInfoInputs.cache
+C:\Users\myacc\Desktop\ChromaGraph\Genetic\obj\Debug\netcoreapp3.1\Genetic.AssemblyInfo.cs
+C:\Users\myacc\Desktop\ChromaGraph\Genetic\obj\Debug\netcoreapp3.1\Genetic.csproj.CoreCompileInputs.cache
+C:\Users\myacc\Desktop\ChromaGraph\Genetic\obj\Debug\netcoreapp3.1\Genetic.csproj.CopyComplete
+C:\Users\myacc\Desktop\ChromaGraph\Genetic\obj\Debug\netcoreapp3.1\Genetic.dll
+C:\Users\myacc\Desktop\ChromaGraph\Genetic\obj\Debug\netcoreapp3.1\Genetic.pdb
