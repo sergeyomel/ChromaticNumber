@@ -1,0 +1,190 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\myacc\\Desktop\\диплом\\ChromaGraph\\Graphics\\Graphics.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\myacc\\Desktop\\диплом\\ChromaGraph\\Genetic\\Genetic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\myacc\\Desktop\\диплом\\ChromaGraph\\Genetic\\Genetic.csproj",
+        "projectName": "Genetic",
+        "projectPath": "C:\\Users\\myacc\\Desktop\\диплом\\ChromaGraph\\Genetic\\Genetic.csproj",
+        "packagesPath": "C:\\Users\\myacc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\myacc\\Desktop\\диплом\\ChromaGraph\\Genetic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\myacc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\myacc\\Desktop\\диплом\\ChromaGraph\\Graph\\GraphLib.csproj": {
+                "projectPath": "C:\\Users\\myacc\\Desktop\\диплом\\ChromaGraph\\Graph\\GraphLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\myacc\\Desktop\\диплом\\ChromaGraph\\Graphics\\Graphics.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\myacc\\Desktop\\диплом\\ChromaGraph\\Graphics\\Graphics.csproj",
+        "projectName": "Graphics",
+        "projectPath": "C:\\Users\\myacc\\Desktop\\диплом\\ChromaGraph\\Graphics\\Graphics.csproj",
+        "packagesPath": "C:\\Users\\myacc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\myacc\\Desktop\\диплом\\ChromaGraph\\Graphics\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\myacc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\myacc\\Desktop\\диплом\\ChromaGraph\\Genetic\\Genetic.csproj": {
+                "projectPath": "C:\\Users\\myacc\\Desktop\\диплом\\ChromaGraph\\Genetic\\Genetic.csproj"
+              },
+              "C:\\Users\\myacc\\Desktop\\диплом\\ChromaGraph\\Graph\\GraphLib.csproj": {
+                "projectPath": "C:\\Users\\myacc\\Desktop\\диплом\\ChromaGraph\\Graph\\GraphLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\myacc\\Desktop\\диплом\\ChromaGraph\\Graph\\GraphLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\myacc\\Desktop\\диплом\\ChromaGraph\\Graph\\GraphLib.csproj",
+        "projectName": "GraphLib",
+        "projectPath": "C:\\Users\\myacc\\Desktop\\диплом\\ChromaGraph\\Graph\\GraphLib.csproj",
+        "packagesPath": "C:\\Users\\myacc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\myacc\\Desktop\\диплом\\ChromaGraph\\Graph\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\myacc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
